@@ -1,8 +1,13 @@
-Stat 523
---------
+---
+output:
+  rmarkdown: github_document
+  html_document: default
+  pdf_document: default
+---
 
-### Assignment 1: Data Structures and Subsetting
+# Data Structures and Subsetting
 
+In this tutorial we are trying to demonstrate basic operations with data structures and subsetting in R software. This file is part of my project for Statistical Computing with Prof. Harner. 
 #### Explain your code where appropriate.
 
 1. Create vectors of each of the different primitive types. i.e., integer, double, logical, and character. Create matrices by attaching `dim` attributes to those vectors. Look up the help for `dimnames` and attach `dimnames` to these resulting matrices.
